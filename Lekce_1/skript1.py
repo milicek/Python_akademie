@@ -1,0 +1,1 @@
+print("Zdar Jak sviňa")
