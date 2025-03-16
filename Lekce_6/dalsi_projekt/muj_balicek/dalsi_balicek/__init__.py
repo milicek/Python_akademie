@@ -1,0 +1,1 @@
+print("Toto je __init__.py v muj_balicek.dalsi_balicek")
